@@ -1,0 +1,1 @@
+{"id":"mooncore","name":"MoonCore","version":"1.0","description":"The main Velocity plugin for the MoonNet servers.","url":"vmoon.de","authors":["VoidableMoon884"],"dependencies":[],"main":"de.vmoon.moonCore.MoonCore"}

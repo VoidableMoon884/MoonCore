@@ -1,3 +1,6 @@
+de\vmoon\moonCore\commands\AlertCommand.class
+velocity-plugin.json
+de\vmoon\moonCore\services\SendService.class
 de\vmoon\moonCore\commands\SendCommand.class
 de\vmoon\moonCore\MoonCore.class
-velocity-plugin.json
+de\vmoon\moonCore\services\AlertService.class
